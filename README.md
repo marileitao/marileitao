@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Mariane Leitão 👋
 
 - 🔭 Hoje eu trabalho com back-end
-- 🌱 Estudando Node.Js
+- 🌱 Estudando AdonisJs
 - 📫 E-mail: marianeleiitao@gmail.com
 
 
